@@ -4,4 +4,4 @@
 - 💬 Ask me about my viral snake worshipping cult
 - 📫 How to reach me: couldbejake@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm grade 6 on Piano!
+- ⚡ Fun fact: I'm Grade 6 on Piano!
