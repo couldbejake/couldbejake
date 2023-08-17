@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on Tweetium
-- 🌱 I’m currently learning Node.js, C++
-- 👯 I’m looking to collaborate on Web Scrapers
-- 📫 How to reach me: couldbejake@gmail.com
+- 🔭 I’m currently working on Diode Messenger
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate, if you have free time, feel free to reach out.
+- 📫 How to reach me: jake@couldbejake.io
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm Grade 6 on Piano!
 
