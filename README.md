@@ -1,5 +1,5 @@
-- 🔭 I’m currently working on Diode Messenger
-- 🌱 I’m currently learning React.js
+- 🔭 I’m currently working on Voxioma
+- 🌱 I’m currently learning about AI
 - 👯 I’m looking to collaborate, if you have free time, feel free to reach out.
 - 📫 How to reach me: jake@couldbejake.io
 - 😄 Pronouns: he/him
